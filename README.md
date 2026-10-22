@@ -19,6 +19,10 @@ cp -r drama-3-prompt-writing/drama-3-prompt-writing ~/.claude/skills/
 
 Ask Claude for a Drama 3 prompt, e.g. *"Write a Drama 3 prompt for a tense two-character scene"* or paste your script and ask to add directions.
 
+## Author
+
+Made by [Cosmo Edge Labs](https://www.youtube.com/@CosmoEdgeLabs) — tutorials and tests on local AI models (ComfyUI, TTS, video).
+
 ## Sources
 
 - [ComfyUI-Drama3 — Tags and directions](https://github.com/PedroMarinhoDev/ComfyUI-Drama3)
