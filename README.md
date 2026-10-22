@@ -6,14 +6,20 @@ It covers bracket directions, point and scoped tags, director's notes (`Directio
 
 ## Install
 
-**Claude Code**
+**Claude (claude.ai / app)**: download [`drama-3-prompt-writing.zip`](https://github.com/Xoonity/drama-3-prompt-writing/releases/latest/download/drama-3-prompt-writing.zip), then upload it in **Customize → Skills** and turn it on.
+
+**Claude Code, Cursor, Codex and other coding agents**
+
+```bash
+npx skills add https://github.com/Xoonity/drama-3-prompt-writing
+```
+
+Or manually for Claude Code:
 
 ```bash
 git clone https://github.com/Xoonity/drama-3-prompt-writing
 cp -r drama-3-prompt-writing/drama-3-prompt-writing ~/.claude/skills/
 ```
-
-**Claude (claude.ai / app)**: zip the `drama-3-prompt-writing` folder and upload it as a skill in Settings.
 
 ## Usage
 
