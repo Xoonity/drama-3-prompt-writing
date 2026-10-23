@@ -4,6 +4,10 @@ A Claude skill for writing text prompts for **Fish Audio Drama 3** run locally w
 
 It covers bracket directions, point and scoped tags, director's notes (`Direction:` / `Line:`), language hints and multi-speaker dialogue (`<|speaker:N|>`), plus the pitfalls of the local node (spoken parentheses, ~300-byte chunking, pause cues at line start, reference-clip baseline). No API, no code: the skill outputs ready-to-paste prompts.
 
+Tutorial & Tests:
+- [Same Scene, One Change: How to Direct Fish Audio Drama 3 in ComfyUI](https://www.youtube.com/watch?v=t0Sl48SH7dM)
+- [Fish Audio Drama 3 : 4 Dialogue Modes Tested (ComfyUI Guide)](https://www.youtube.com/watch?v=Xc_wJaLJgjw)
+
 ## Install
 
 **Claude (claude.ai / app)**: download [`drama-3-prompt-writing.zip`](https://github.com/Xoonity/drama-3-prompt-writing/releases/latest/download/drama-3-prompt-writing.zip), then upload it in **Customize → Skills** and turn it on.
